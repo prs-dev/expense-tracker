@@ -11,3 +11,6 @@ can be started in development mode using (in root) `npm run client`
 - expressjs
 - nodejs
 can be started in development mode using (in root) `npm run dev`
+
+Deployed version can be found on: <https://exp-tracker-itzw.onrender.com/>
+Email: <pratyushsri.25@gmail.com>
